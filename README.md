@@ -1,0 +1,1 @@
+# SDL2 to XInput Translation Library.
